@@ -1,0 +1,4 @@
+graft src/uwosh
+graft docs
+include *.rst
+global-exclude *.pyc

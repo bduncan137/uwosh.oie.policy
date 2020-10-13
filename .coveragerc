@@ -1,0 +1,6 @@
+[report]
+include =
+    src/uwosh/*
+omit =
+    */test*
+    */upgrades/*
