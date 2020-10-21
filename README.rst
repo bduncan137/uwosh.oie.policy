@@ -10,7 +10,7 @@ This project is intended to help developers working on the UWO Office of Interna
 for study abroad programs and applications.
 
 Once you have your python 3.7.8 or 3.7.9 environment set up, using `python3 -m venv env` for example,
-install requirements with `env/bin/pip install -r requiments.txt` and then run the buildout with
+install requirements with `env/bin/pip install -r requirements.txt` and then run the buildout with
 `env/bin/buildout`.
 
 Once this is complete you can start Plone with the UWO addons using `env/bin/instance fg`, then
