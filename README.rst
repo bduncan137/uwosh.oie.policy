@@ -17,7 +17,7 @@ Once this is complete you can start Plone with the UWO addons using `env/bin/ins
 log in at localhost:8080 using admin:admin, create a site and install the UWO study abroad student 
 and theme packages to it in the Add Ons section of Site Setup.
 
-For some functionality to work, the Plone ssite currently must be named "oie".
+For some functionality to work, the Plone site currently must be named "oie".
 
 The student and theme packages are public on github here
 https://github.com/uwosh/uwosh.oie.studyabroadstudent/
