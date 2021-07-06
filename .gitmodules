@@ -1,0 +1,7 @@
+[submodule "studyabroadstudent"]
+path = src/uwosh.oie.studyabroadstudent
+url = git@github.com:uwosh/uwosh.oie.studyabroadstudent.git branch=bd/april-2021-changes
+
+[submodule "studyabroadtheme"]
+path = src/uwosh.oie.studyabroadtheme
+url = git@github.com:uwosh/uwosh.oie.studyabroadtheme.git branch=bd/april-2021-changes
